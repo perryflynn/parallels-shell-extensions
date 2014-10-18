@@ -13,6 +13,7 @@ Install
 Features
 --------
 
+* Fancy bash prompt
 * Fake home directory for all config files (manipulates $HOME)
 * Default vim configuration
 * ~/bin/ folder for user defined scripts/binaries in $PATH
