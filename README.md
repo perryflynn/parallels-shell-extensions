@@ -15,7 +15,7 @@ Features
 
 * Fake home directory for all config files (manipulates $HOME)
 * Default vim configuration
-* ~/bin/ folder for user defined scripts/binaries
+* ~/bin/ folder for user defined scripts/binaries in $PATH
 * ~/html/ symlink to /httpdocs/
 
 More ideas? Feel free to make a pull request!
