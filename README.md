@@ -3,12 +3,12 @@ I'm try to make the ssh jail shell of paralels cloud server better.
 Install
 -------
 
-*Create `/home` in jail
-*Save all files to `/home`
-*Make .profile and .bashrc executable (chmod a+x ...)
-*Create symlink for profile: `ln -s /home/.profile /.profile`
-*Logout
-*Login
+* Create `/home` in jail
+* Save all files to `/home`
+* Make .profile and .bashrc executable (chmod a+x ...)
+* Create symlink for profile: `ln -s /home/.profile /.profile`
+* Logout
+* Login
 
 Features
 --------
