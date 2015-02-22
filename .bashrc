@@ -39,5 +39,8 @@ if [ ! -h ~/html ]; then
 	ln -s /httpdocs html
 fi
 
-# Aliases
-alias ls="ls -lisah --color=auto"
+# Load aliases
+if [ -f ~/.bash_aliases ]; then
+	. ~/.bash_aliases
+fi
+
