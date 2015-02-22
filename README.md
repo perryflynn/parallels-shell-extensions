@@ -16,6 +16,7 @@ Features
 * Fancy bash prompt
 * Fake home directory for all config files (manipulates $HOME)
 * Default vim configuration
+* .bash_aliases for user defined aliases
 * ~/bin/ folder for user defined scripts/binaries in $PATH
 * ~/html/ symlink to /httpdocs/
 
